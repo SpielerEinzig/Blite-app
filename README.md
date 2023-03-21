@@ -1,7 +1,8 @@
 # real_cafe
 
 Blite is a scheduling app for managing student's schedules.
-This repo is meant to be a showcase for the app. The main app is in a private repository
+This repo is meant to be a showcase for the app. The main app is in a private repository.
+
 
 ## APK Link
 https://drive.google.com/file/d/1Grl5Sxmi2ZRQb_KFa9gGMebLsPCmW_e_/view?usp=share_link
