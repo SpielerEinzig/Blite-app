@@ -15,9 +15,9 @@ https://drive.google.com/file/d/1Grl5Sxmi2ZRQb_KFa9gGMebLsPCmW_e_/view?usp=share
 
 ## Works on
 
-[x] Android
+[x] Android: https://play.google.com/store/apps/details?id=com.camgray.blite
 
-[x] IOS
+[x] IOS: https://apps.apple.com/pl/app/blite-connecting-friends/id1628206393
 
 
 ## Getting Started
