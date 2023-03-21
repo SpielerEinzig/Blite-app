@@ -1,17 +1,25 @@
-# blite
+# real_cafe
 
-A new Flutter project.
+Blite is a scheduling app for managing student's schedules.
+
+## APK Link
+https://drive.google.com/file/d/1Grl5Sxmi2ZRQb_KFa9gGMebLsPCmW_e_/view?usp=share_link
+
+
+## Features
+
+- Firebase firestore for database
+- Firebase auth for handling email authentication
+- Provider for state management
+- Get storage for local storage
+
+## Works on
+
+[x] Android
+
+[x] IOS
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Blite-app
+Clone the project and run flutter pub get from the project's directory
